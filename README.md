@@ -1,4 +1,4 @@
-# BlockBudget
+# BlockDonate
 **BlockDonate** is a decentralized platform that ensures secure, transparent, and traceable donations through Ethereum smart contracts. Donors can contribute to causes and track the usage of their donations via the blockchain.
 
 ## 🚀 Features
